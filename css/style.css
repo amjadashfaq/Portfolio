@@ -322,6 +322,9 @@
  	 font-size: 180%;
  	 top: 5em;
 	}
+	.me h1{
+		text-align: center;
+	}
 
 }
 @media (min-width: 448px) and (max-width: 767px) {
