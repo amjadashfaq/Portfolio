@@ -166,6 +166,33 @@
 	}
 }
 
+@media (max-width: 447px) {
+	.name{
+		width: 50%;
+		text-align: left;
+	}
+	.navbar-brand img{
+	width: 25px;
+	height: 25px;
+	}
+
+	.name span{
+	font: bold 80% Lora, serif;
+	}
+	.nav-link{
+	font-size: 0.8em;
+	}
+	.mybtn{
+		text-align: center;
+	}
+	.btn{
+	font-size: 10px;
+	width: 17%;
+	height: 50%;
+	margin: 0px;
+	}
+}
+
 
 
 
